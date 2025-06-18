@@ -45,6 +45,7 @@ By completing this project, I gained hands-on experience in:
 ├── capture.pcap             # Sample capture file (binary)
 ├── sslkeys.log              # Session keys for decryption (if applicable)
 ├── decrypted_capture.txt    # Optional: readable output of capture.pcap
+├── key_extraction.sh        # TSL Keys Capture
 ├── README.md                # Project documentation
 ```
 
