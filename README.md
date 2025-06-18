@@ -3,7 +3,7 @@ Network Traffic Analysis with TCPDump - Logging Tool for Cyber Forensics
 
 ## 📌 Project Summary
 
-This project simulates a real-world cybersecurity scenario in which suspicious activity on a corporate network must be investigated. Using **TCPDump**, **Bash scripting**, and **Wireshark**, a custom network traffic logging tool is developed to capture, filter, and decrypt suspicious traffic for forensic analysis.
+This project simulates a real-world cybersecurity scenario in which suspicious activity on a corporate network must be investigated. Using **TCPDump**, **Bash scripting**, and **Wireshark**, a custom network traffic logging tool is developed to capture, filter, and decrypt suspicious traffic for forensic analysis. 
 
 ---
 
